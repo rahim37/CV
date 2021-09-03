@@ -1,0 +1,25 @@
+body{
+    background-color:#E4F9F5;
+}
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+td,th{
+    text-align: left;
+}
+table{
+    border-spacing: 10px;
+}
+hr{
+    border-style:dotted none none;
+    width:5%;
+    height: 0%;
+    border-color: grey;
+    border-width:5px;
+    
+}
+h1,h2{
+    color:#11999E;
+}
